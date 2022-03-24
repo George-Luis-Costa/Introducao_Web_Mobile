@@ -1,4 +1,4 @@
 # Introducao_Web_Mobile
-Apresentação de introdução Web/Mobile
+Introdução Web/Mobile
 
-## Apresentação de nível introdutório sobre Web/Mobile, para alunos do ensino médio.
+Apresentação de nível introdutório sobre Web/Mobile, para alunos do ensino médio.
